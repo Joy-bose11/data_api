@@ -1,182 +1,249 @@
-{
-  "0": {
-    "id": 1,
-    "title": "Mamaearth and Femina present Beautiful Indians Season 3",
-    "news": "Mamaearth and Femina presented the season 3 of Beautiful Indians, aiming to celebrate individuals whose goodness has inspired us by bringing a positive change in the society. Individuals, celebrities and content creators were honoured at the event, including Madhuri Dixit, Shraddha Kapoor, Karisma Kapoor, Kartik Aaryan, Shilpa Shetty, Manish Malhotra, Orry, among others.",
-    "source": "Mamaearth",
-    "sourceURL": "https://www.google.com",
-    "imageURL": "https://nis-gs.pix.in/inshorts/images/v1/variants/webp/xs/2024/03_mar/21_thu/img_1711026257848_725.webp?",
-    "publishDate": "8.31 am on Friday, 22 March, 2024"
-  },
-  "1": {
-    "id": 2,
-    "title": "1st pic shows Arvind Kejriwal after his arrest",
-    "news": "First picture showing Delhi Chief Minister Arvind Kejriwal after his arrest by the Enforcement Directorate has been shared by news agency ANI. Kejriwal was arrested from his residence on Thursday in the excise policy case. Meanwhile, the Delhi Police detained AAP workers protesting outside the Delhi CM's residence.",
-    "source": "ANI",
-    "sourceURL": "https://www.google.com",
-    "imageURL": "https://nis-gs.pix.in/inshorts/images/v1/variants/webp/xs/2024/03_mar/21_thu/img_1711044868440_238.webp?",
-    "publishDate": "12:23 am on Friday, 22 March, 2024"
-  },
-  "2": {
-    "id": 3,
-    "title": "Why has ED arrested Delhi CM Arvind Kejriwal?",
-    "news": "ED has arrested Delhi CM Arvind Kejriwal in connection with money laundering probe linked to Delhi liquor excise policy after the leader skipped nine summons. ED had called Kejriwal a \"conspirator\" in the case. It alleged that BRS leader K Kavitha conspired with Kejriwal and AAP leaders while framing the now-scrapped policy, with AAP leaders receiving ₹100 crore in kickbacks.",
-    "source": "Mamaearth",
-    "sourceURL": "https://www.google.com",
-    "imageURL": "https://nis-gs.pix.in/inshorts/images/v1/variants/webp/xs/2024/03_mar/21_thu/img_1711026257848_725.webp?",
-    "publishDate": "10:22 pm on Thursday, 21 March, 2024"
-  },
-  "3": {
-    "id": 4,
-    "title": "India will launch first human spaceflight by Dec 2024: ISRO chief",
-    "news": "ISRO Chairman S Somanath has said that India will launch its first human spaceflight by December 2024. He added that four astronauts have been selected for the mission, and they will be trained in Russia for the flight. The mission will include a crewed spacecraft that will orbit the Earth at an altitude of around 400 km.",
-    "source": "ISRO",
-    "sourceURL": "https://www.isro.gov.in/",
-    "imageURL": "https://example.com/image4.jpg",
-    "publishDate": "11:45 am on Wednesday, 20 March, 2024"
-  },
-  "4": {
-    "id": 5,
-    "title": "India ranks 86th on global corruption index, drops 7 spots",
-    "news": "India has been ranked 86th on the global corruption index, dropping seven spots from last year's ranking. The index, published by Transparency International, ranks 180 countries and territories by their perceived levels of public sector corruption. Denmark and New Zealand topped the list as the least corrupt countries.",
-    "source": "Transparency International",
-    "sourceURL": "https://www.transparency.org/en/cpi/2023/index/nzl",
-    "imageURL": "https://example.com/image5.jpg",
-    "publishDate": "2:15 pm on Tuesday, 19 March, 2024"
-  },
-  "5": {
-    "id": 6,
-    "title": "Google fined $2.8 billion for abusing online advertising dominance",
-    "news": "Google has been fined $2.8 billion by the European Union for abusing its dominant position in online advertising. The EU's competition watchdog found that Google unfairly favoured its own online advertising technology services over competitors. It's the largest antitrust fine ever imposed on a single company by the EU.",
-    "source": "European Union",
-    "sourceURL": "https://ec.europa.eu/commission/presscorner/detail/en/IP_24_3347",
-    "imageURL": "https://example.com/image6.jpg",
-    "publishDate": "9:30 am on Monday, 18 March, 2024"
-  },
-  "6": {
-    "id": 7,
-    "title": "Facebook to shut down its facial recognition system",
-    "news": "Facebook has announced that it will shut down its facial recognition system, which automatically identifies people in photos and videos, starting from October. Facebook said it's doing this to prioritize privacy and give users more control over their data. The move comes amid increasing scrutiny over facial recognition technology.",
-    "source": "Facebook",
-    "sourceURL": "https://about.fb.com/news/2024/03/changes-to-face-recognition/",
-    "imageURL": "https://example.com/image7.jpg",
-    "publishDate": "6:00 pm on Sunday, 17 March, 2024"
-  },
-  "7": {
-    "id": 8,
-    "title": "Tesla unveils its 'Giga Press' for Model Y production",
-    "news": "Tesla has unveiled its 'Giga Press', a massive casting machine used for manufacturing large parts of its electric vehicles, at its Gigafactory in Berlin. The machine is used to cast the rear body of the Model Y electric SUV in a single piece, reducing manufacturing complexity and improving structural integrity.",
-    "source": "Tesla",
-    "sourceURL": "https://www.tesla.com/updates/model-y-manufacturing",
-    "imageURL": "https://example.com/image8.jpg",
-    "publishDate": "10:00 am on Saturday, 16 March, 2024"
-  },
-  "8": {
-    "id": 9,
-    "title": "Amazon acquires MGM Studios for $8.45 billion",
-    "news": "Amazon has acquired MGM Studios, the iconic film and television studio behind franchises like James Bond and Rocky, for $8.45 billion. The deal will give Amazon access to MGM's vast library of content, which includes over 4,000 films and 17,000 TV shows, as it looks to bolster its streaming service, Prime Video.",
-    "source": "Amazon",
-    "sourceURL": "https://press.aboutamazon.com/news-releases/news-release-details/amazoncom-announces-thegreenlighting-of-its-new-original-dramatic-and-comedy",
-    "imageURL": "https://example.com/image9.jpg",
-    "publishDate": "3:30 pm on Friday, 15 March, 2024"
-  },
-  "9": {
-    "id": 10,
-    "title": "NASA's Artemis I mission launch delayed to mid-2025",
-    "news": "NASA has announced that the launch of its Artemis I mission, the first uncrewed test flight of the Space Launch System (SLS) and the Orion spacecraft, has been delayed to mid-2025. The mission was originally scheduled for November 2021 but has faced numerous delays due to technical challenges.",
-    "source": "NASA",
-    "sourceURL": "https://www.nasa.gov/press-release/artemis-i-mission-update/",
-    "imageURL": "https://example.com/image10.jpg",
-    "publishDate": "1:00 pm on Thursday, 14 March, 2024"
-  },
-  "10": {
-    "id": 11,
-    "title": "Bitcoin surpasses $100,000 for the first time",
-    "news": "Bitcoin has surpassed $100,000 for the first time in its history, reaching a new all-time high. The cryptocurrency's price surged over 10% in a single day, driven by increased institutional interest and growing adoption. Bitcoin's market capitalization now exceeds $2 trillion.",
-    "source": "Cryptocurrency News",
-    "sourceURL": "https://www.coindesk.com/markets/2024/03/13/bitcoin-surpasses-100k-for-the-first-time/",
-    "imageURL": "https://example.com/image11.jpg",
-    "publishDate": "9:45 am on Wednesday, 13 March, 2024"
-  },
-  "11": {
-    "id": 12,
-    "title": "Elon Musk becomes world's richest person again",
-    "news": "Elon Musk has reclaimed the title of the world's richest person, surpassing Amazon founder Jeff Bezos once again. Musk's net worth surged to over $330 billion, driven by the soaring value of Tesla shares. He previously held the title briefly in 2021 before being surpassed by Bezos.",
-    "source": "Forbes",
-    "sourceURL": "https://www.forbes.com/profile/elon-musk/",
-    "imageURL": "https://example.com/image12.jpg",
-    "publishDate": "12:00 pm on Tuesday, 12 March, 2024"
-  },
-  "12": {
-    "id": 13,
-    "title": "Scientists discover new species of deep-sea fish",
-    "news": "Scientists have discovered a new species of deep-sea fish living in the Mariana Trench, the deepest part of the world's oceans. The fish, named 'Mariana lanternfish', has bioluminescent organs that emit light to attract prey in the dark depths of the trench. The discovery sheds light on the biodiversity of deep-sea ecosystems.",
-    "source": "National Geographic",
-    "sourceURL": "https://www.nationalgeographic.com/",
-    "imageURL": "https://example.com/image21.jpg",
-    "publishDate": "11:45 pm on Tuesday, 12 March, 2024"
-  },
-  "13": {
-    "id": 14,
-    "title": "Apple unveils new MacBook Pro with M2 chip",
-    "news": "Apple has unveiled its new MacBook Pro featuring the company's latest M2 chip, offering improved performance and efficiency compared to its predecessor. The new MacBook Pro comes with a redesigned chassis, a mini-LED display with ProMotion technology, and up to 32GB of RAM and 8TB of SSD storage.",
-    "source": "Apple",
-    "sourceURL": "https://www.apple.com/",
-    "imageURL": "https://example.com/image14.jpg",
-    "publishDate": "11:30 am on Monday, 11 March, 2024"
-  },
-  "14": {
-    "id": 15,
-    "title": "China announces plans to build 1,000 km/h 'super maglev' train",
-    "news": "China has announced plans to build a 'super maglev' train capable of reaching speeds of up to 1,000 km/h (621 mph). The train, which will use magnetic levitation technology, aims to reduce travel time between cities and improve transportation efficiency. Construction is set to begin later this year.",
-    "source": "China Daily",
-    "sourceURL": "https://www.chinadaily.com.cn/",
-    "imageURL": "https://example.com/image15.jpg",
-    "publishDate": "3:00 pm on Sunday, 10 March, 2024"
-  },
-  "15": {
-    "id": 16,
-    "title": "EU unveils proposal for digital currency 'Eurocoin'",
-    "news": "The European Union has unveiled a proposal for a digital currency called 'Eurocoin', aimed at reducing reliance on traditional payment systems and strengthening the euro's position in the global economy. Eurocoin would be issued by the European Central Bank and would complement existing cash and electronic payments.",
-    "source": "European Commission",
-    "sourceURL": "https://ec.europa.eu/",
-    "imageURL": "https://example.com/image16.jpg",
-    "publishDate": "9:45 am on Saturday, 9 March, 2024"
-  },
-  "16": {
-    "id": 17,
-    "title": "Netflix announces plans to expand into video games",
-    "news": "Netflix has announced plans to expand into the video game industry, with the company set to offer a range of games to its subscribers at no additional cost. The move is part of Netflix's efforts to diversify its content offerings and attract new subscribers amid increasing competition in the streaming market.",
-    "source": "Netflix",
-    "sourceURL": "https://www.netflix.com/",
-    "imageURL": "https://example.com/image17.jpg",
-    "publishDate": "1:30 pm on Friday, 8 March, 2024"
-  },
-  "17": {
-    "id": 18,
-    "title": "SpaceX successfully launches Starlink-4 mission",
-    "news": "SpaceX has successfully launched its Starlink-4 mission, deploying 60 Starlink satellites into orbit aboard a Falcon 9 rocket. The mission aims to expand SpaceX's Starlink internet constellation, which provides high-speed internet access to users around the world. The Falcon 9 booster successfully landed on a drone ship in the Atlantic Ocean.",
-    "source": "SpaceX",
-    "sourceURL": "https://www.spacex.com/",
-    "imageURL": "https://example.com/image18.jpg",
-    "publishDate": "10:00 am on Thursday, 7 March, 2024"
-  },
-  "18": {
-    "id": 19,
-    "title": "WHO declares new variant 'Theta' as a variant of concern",
-    "news": "The World Health Organization (WHO) has declared a new variant of the coronavirus, named 'Theta', as a variant of concern. The variant, which was first detected in multiple countries, has raised concerns due to its potential to evade immunity and spread rapidly. WHO has urged countries to enhance surveillance and public health measures.",
-    "source": "World Health Organization",
-    "sourceURL": "https://www.who.int/",
-    "imageURL": "https://example.com/image19.jpg",
-    "publishDate": "8:15 am on Wednesday, 6 March, 2024"
-  },
-  "19": {
-    "id": 20,
-    "title": "Microsoft announces Windows 12 with AI-powered features",
-    "news": "Microsoft has announced Windows 12, the latest version of its operating system, featuring AI-powered features designed to enhance productivity and security. Windows 12 will include features such as intelligent voice assistant, advanced threat protection, and enhanced multitasking capabilities.",
-    "source": "Microsoft",
-    "sourceURL": "https://www.microsoft.com/",
-    "imageURL": "https://example.com/image20.jpg",
-    "publishDate": "2:45 pm on Tuesday, 5 March, 2024"
-  }
-}
+[
+   {
+      "source": {
+        "id": null,
+        "name": "YouTube"
+      },
+      "author": null,
+      "title": "OnePlus Nord 4 Price 😲, Apple Big Issue, Warzone Mobile, Lava O2, Z Fold 6,POCO C61 Coming-#TTN1559 - Trakin Tech",
+      "description": "Hello, Friends Welcome to Tech News No.1559. Today There Are Lots Of Amazing Tech News Lined Up For You. So Let's Get Started And Don't Forget To Like & Subs...",
+      "url": "https://www.youtube.com/watch?v=x1u2h-i7dhQ",
+      "urlToImage": "https://i.ytimg.com/vi/x1u2h-i7dhQ/maxresdefault.jpg",
+      "publishedAt": "2024-03-23T12:01:00Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "author": "TOI Lifestyle Desk",
+      "title": "Solar Eclipse 2024: Smart tips by NASA for capturing Total Solar Eclipse - The Times of India",
+      "description": "The total solar eclipse is a once-in-a-lifetime event. This guide equips you to capture it! Learn how to choose the perfect location, prioritize safety with proper gear, and select the ideal camera settings. We'll also cover composition techniques and the imp…",
+      "url": "https://timesofindia.indiatimes.com/etimes/trending/solar-eclipse-2024-smart-tips-by-nasa-for-capturing-total-solar-eclipse/photostory/108732987.cms",
+      "urlToImage": "https://static.toiimg.com/photo/108733012.cms",
+      "publishedAt": "2024-03-23T11:30:00Z",
+      "content": "Practice photographing the moon to simulate the eclipse conditions, as both celestial bodies are similar in size when viewed from Earth. Test different settings and filters to be prepared. According … [+618 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Hindustan Times"
+      },
+      "author": "HT Sports Desk",
+      "title": "PBKS vs DC Live Score, IPL 2024: David Warner departs after solid start, Rishabh Pant in middle for Delhi Capitals - Hindustan Times",
+      "description": "PBKS vs DC Live Score, IPL 2024, Punjab Kings vs Delhi Capitals: Harshal Patel ended David Warner's stay for 29. Rishabh Pant in the middle",
+      "url": "https://www.hindustantimes.com/cricket/pbks-vs-dc-ipl-live-score-2024-match-2-punjab-kings-vs-delhi-capitals-in-mullanpur-stadium-ipl-match-today-23-march-101711167946922.html",
+      "urlToImage": "https://www.hindustantimes.com/ht-img/img/2024/03/23/550x309/David_Warner_IPL_1711189549021_1711189558005.jpg",
+      "publishedAt": "2024-03-23T10:20:24Z",
+      "content": "PBKS vs DC Live Score, IPL 2024, Punjab Kings vs Delhi Capitals: Harshal Patel picked the massive wicket of David Warner who was looking in incredible form to hurt Delhi Capitals. Warner scored 29 ru… [+56972 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "NDTV News"
+      },
+      "author": null,
+      "title": "Over 110 Dead In Russia Terror Attack, All 4 Gunmen Among 11 Arrested - NDTV",
+      "description": "Russia said on Saturday it had arrested 11 people including four suspected gunmen in connection with a shooting rampage that killed 143 people in a concert hall near Moscow, the deadliest attack in Russia for 20 years.",
+      "url": "https://www.ndtv.com/world-news/russia-terror-attack-moscow-terror-attack-isis-60-killed-over-100-injured-in-moscow-concert-hall-attack-10-points-5293943",
+      "urlToImage": "https://c.ndtvimg.com/2024-03/5mhq76tg_russia_625x300_23_March_24.jpg",
+      "publishedAt": "2024-03-23T10:01:00Z",
+      "content": "\u003Cli\u003EPolice have arrested 11 suspects - including all four gunmen directly involved in carrying out the deadly attack - following a \"car chase\" in Russia's Bryansk region.\r\n\u003C/li\u003E\u003Cli\u003ERussian security a… [+2241 chars]"
+    },
+    {
+      "source": {
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "author": "TOI News Desk",
+      "title": "'Happening at industry level': Jaishankar on Pakistan sponsoring cross-border terrorism - The Times of India",
+      "description": "India News: Jaishankar condemns Pakistan's use of terrorism, criticizes China's claims on Arunachal Pradesh, and reaffirms India's stance on addressing cross-bord",
+      "url": "https://timesofindia.indiatimes.com/india/happening-at-industry-level-jaishankar-on-pakistan-sponsoring-cross-border-terrorism/articleshow/108729230.cms",
+      "urlToImage": "https://static.toiimg.com/thumb/msid-108729674,width-1070,height-580,imgsize-832620,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+      "publishedAt": "2024-03-23T09:44:00Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Livelaw.in"
+      },
+      "author": "LIVELAW NEWS NETWORK",
+      "title": "Kerala Govt Moves Supreme Court Challenging President's Refusal Of Assent For 4 Bills As Arbitrary - Live Law - Indian Legal News",
+      "description": "The State of Kerala has approached the Supreme Court challenging the President's refusal of assent to four out of the seven bills referred by the Kerala Governor.In its writ petition filed under...",
+      "url": "https://www.livelaw.in/top-stories/kerala-govt-moves-supreme-court-challenging-presidents-refusal-of-assent-for-4-bills-as-arbitrary-253252",
+      "urlToImage": "https://www.livelaw.in/h-upload/2024/03/23/530073-president-droupadi-murmu-kerala-map-and-sc.jpg",
+      "publishedAt": "2024-03-23T09:21:52Z",
+      "content": "The State of Kerala has approached the Supreme Court challenging the President's refusal of assent to four out of the seven bills referred by the Kerala Governor.\r\nIn its writ petition filed under Ar… [+5435 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "ThePrint"
+      },
+      "author": "Sourav Roy Barman",
+      "title": "‘Main Sunita, Arvind Kejriwal ki dharm patni’ — the real message behind Delhi CM’s message to public - ThePrint",
+      "description": "Sunita Kejriwal may have campaigned for AAP in the past, but the decision to field her in a politically fraught moment like this has added a new dimension to the ongoing saga.",
+      "url": "https://theprint.in/politics/main-sunita-arvind-kejriwal-ki-dharm-patni-the-real-message-behind-delhi-cms-message-to-public/2012799/",
+      "urlToImage": "https://static.theprint.in/wp-content/uploads/2024/03/File-photo-of-Sunita-and-Arvind-Kejriwal-ANI.jpg",
+      "publishedAt": "2024-03-23T09:12:32Z",
+      "content": "New Delhi: In a statement from the custody of the Enforcement Directorate (ED), which has arrested him in the excise policy case, Delhi Chief Minister Arvind Kejriwal said Saturday that he is a man o… [+3824 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Hindustan Times"
+      },
+      "author": "HT Tech",
+      "title": "Shakti and Shiva: Ancient Star Duos in Milky Way Galaxy's Tale of Creation - HT Tech",
+      "description": "Scientists have identified two ancient streams of stars within the Milky Way, named Shakti and Shiva, using data from the Gaia space telescope.",
+      "url": "https://tech.hindustantimes.com/tech/news/shakti-and-shiva-ancient-star-duos-in-milky-way-galaxys-tale-of-creation-71711184303578.html",
+      "urlToImage": "https://images.hindustantimes.com/tech/img/2024/03/23/1600x900/SPACE-EXPLORATION-METHANE-1_1653886144292_1711184582317.JPG",
+      "publishedAt": "2024-03-23T09:04:45Z",
+      "content": "Scientists have recently uncovered two ancient streams of stars within the Milky Way Galaxy, dubbed Shakti and Shiva, shedding light on the galaxy's earliest formation stages. These star structures, … [+1766 chars]"
+    },
+    {
+      "source": {
+        "id": "al-jazeera-english",
+        "name": "Al Jazeera English"
+      },
+      "author": "Al Jazeera",
+      "title": "Captured Somali pirates arrive in India to face trial over ship hijacking - Al Jazeera English",
+      "description": "The 35 men are to be prosecuted for the hijacking of cargo vessel MV Ruen in December when they took the crew hostage.",
+      "url": "https://www.aljazeera.com/news/2024/3/23/captured-somali-pirates-arrive-in-india-to-face-trial-over-ship-hijacking",
+      "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2024/03/2024-03-23T061041Z_1478808900_RC2FR6AGSJKZ_RTRMADP_3_SHIPPING-SECURITY-SOMALIA-INDIA-1711177580.jpg?resize=1920%2C1440",
+      "publishedAt": "2024-03-23T09:00:56Z",
+      "content": "India has brought 35 captured Somali pirates to Mumbai to stand trial, days after its navy recaptured a hijacked bulk carrier and rescued several hostages.\r\nThe destroyer INS Kolkata, which led the r… [+3495 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Hindustan Times"
+      },
+      "author": "HT Entertainment Desk",
+      "title": "Anurag Kashyap says he'll charge money in lakhs to meet random people 'who think they're creative geniuses' - Hindustan Times",
+      "description": "Anurag Kashyap has shared how much he will charge for meeting new people. He asked all to call him if they “really think” they can afford it. | Bollywood",
+      "url": "https://www.hindustantimes.com/entertainment/bollywood/anurag-kashyap-says-he-will-charge-money-in-lakhs-to-meet-random-people-creative-geniuses-101711181860897.html",
+      "urlToImage": "https://www.hindustantimes.com/ht-img/img/2024/03/23/1600x900/_1c79fa82-0532-11eb-b559-b799cd4220ef_1711183919619.JPG",
+      "publishedAt": "2024-03-23T08:57:47Z",
+      "content": "Filmmaker Anurag Kashyap has shared an angry post for \"random people who think they're creative geniuses\". Taking to Instagram on Saturday, Anurag posted a note announcing that from now on, he will c… [+2240 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Hindustan Times"
+      },
+      "author": "HT Education Desk",
+      "title": "Bihar Board 12th Result 2024 Live: BSEB Inter result on HT Portal, check here - Hindustan Times",
+      "description": "BSEB Bihar Board 12th Result 2024 Live Updates: Check BSEB Inter result link, toppers' list, pass percentage and other details below.",
+      "url": "https://www.hindustantimes.com/education/board-exams/bihar-board-12th-result-2024-live-bseb-inter-result-biharboardonline-ht-portal-link-toppers-today-march-23-news-101711153716712.html",
+      "urlToImage": "https://www.hindustantimes.com/ht-img/img/2024/03/23/550x309/WhatsApp_Image_2024-03-23_at_24634_PM_1711189351675_1711189352008.jpeg",
+      "publishedAt": "2024-03-23T08:55:41Z",
+      "content": "Bihar board 12th result 2024 live updates: Top 5 toppers in Science stream\r\nTop 5 toppers in Science stream\r\nRank 1 - Mritunjay Kumar - 96.2% - Male\r\nRank 2 - Simran Gupta - 95.40% - Female\r\nRank 2 -… [+8427 chars]"
+    },
+    {
+      "source": {
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "author": "TOI News Desk",
+      "title": "MEA summons German diplomat over remarks on Delhi CM's arrest, calls it 'blatant interference' - The Times of India",
+      "description": "India News: India strongly objects to German envoy's comments on Delhi CM Arvind Kejriwal's arrest, citing interference in internal affairs. Ministry of External",
+      "url": "https://timesofindia.indiatimes.com/india/mea-summons-german-diplomat-over-remarks-on-delhi-cms-arrest-calls-it-blatant-interference/articleshow/108728298.cms",
+      "urlToImage": "https://static.toiimg.com/thumb/msid-108728740,width-1070,height-580,imgsize-33048,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+      "publishedAt": "2024-03-23T08:49:00Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "The Statesman"
+      },
+      "author": "IANS",
+      "title": "‘Illness To Wellness’ joins hands with ILBS to generate awareness, end discrimination against Hepatitis B patients - The Statesman",
+      "description": "Hepatitis B infects over 40 million people in India and most patients continue to suffer as the society largely remains weighed down by misconceptions related to the disease.",
+      "url": "https://www.thestatesman.com/business/illness-to-wellness-joins-hands-with-ilbs-to-generate-awareness-end-discrimination-against-hepatitis-b-patients-1503282808.html",
+      "urlToImage": "https://www.thestatesman.com/wp-content/uploads/2024/03/IMG_6976.png",
+      "publishedAt": "2024-03-23T08:48:00Z",
+      "content": "The Illness to Wellness initiative, a national campaign aimed at generating awareness on various mind and body conditions and providing holistic and broad stakeholder engagements – with the overall o… [+2823 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Hindustan Times"
+      },
+      "author": "Vrinda Jain",
+      "title": "Doctors shocked to find a 32 cm live eel inside Vietnamese man's rectum, perform emergency surgery - Hindustan Times",
+      "description": "The scans done at the hospital showed that there was a live eel trapped in the man's belly, which resulted in peritonitis. | Trending",
+      "url": "https://www.hindustantimes.com/trending/doctors-shocked-to-find-a-32-cm-live-eel-inside-vietnamese-mans-rectum-perform-emergency-surgery-101711182908898.html",
+      "urlToImage": "https://www.hindustantimes.com/ht-img/img/2024/03/23/1600x900/vietnamese_man_surgery__1711183177807_1711183177969.jpg",
+      "publishedAt": "2024-03-23T08:41:16Z",
+      "content": "In a series of unfortunate events, a Vietnamese man, 34, received an unusual and shocking diagnosis after experiencing severe abdominal cramps. His symptoms prompted medical professionals at the Hai … [+2262 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Hindustan Times"
+      },
+      "author": "PTI",
+      "title": "Tamil Nadu CM M K Stalin supports noted vocalist TM Krishna amid controversy - Hindustan Times",
+      "description": "Stalin backing the noted singer comes against the background of some Carnatic musicians opposing the 'Sangita Kalanidhi' award announced days ago for Krishna. | Latest News India",
+      "url": "https://www.hindustantimes.com/india-news/tamil-nadu-cm-m-k-stalin-supports-noted-vocalist-tm-krishna-amid-controversy-101711182108938.html",
+      "urlToImage": "https://www.hindustantimes.com/ht-img/img/2024/03/23/1600x900/Tamil-Nadu-chief-minister-MK-Stalin-moves-two-key-_1707936778340_1711182422771.jpg",
+      "publishedAt": "2024-03-23T08:32:32Z",
+      "content": "Tamil Nadu Chief Minister M K Stalin on Saturday backed renowned Carnatic musician T M Krishna and said he is being targeted by a section of people for his progressive ideology.\r\nTamil Nadu chief min… [+1255 chars]"
+    },
+    {
+      "source": {
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "author": "Deeksha Somani",
+      "title": "Holi-ready Mobiles: Dive into Holi fun with these IP68-certified smartphones that can survive splashes - The Times of India",
+      "description": "MOBILES & TABLETS News: Smartphones like Samsung Galaxy S24, iPhone 15, Redmi Note 13 Pro+ 5G, Motorola Edge 40 Neo, Vivo X100 5G, with IP68 ratings, are perfect for Holi cel",
+      "url": "https://timesofindia.indiatimes.com/technology/mobiles-tabs/holi-ready-mobiles-dive-into-holi-fun-with-these-ip68-certified-smartphones-that-can-survive-splashes/articleshow/108727946.cms",
+      "urlToImage": "https://static.toiimg.com/thumb/msid-108727967,width-1070,height-580,imgsize-39486,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+      "publishedAt": "2024-03-23T08:14:00Z",
+      "content": "Smartphones like Samsung Galaxy S24, iPhone 15, Redmi Note 13 Pro+ 5G, Motorola Edge 40 Neo, Vivo X100 5G, with IP68 ratings, are perfect for Holi celebrations, offering water and dust resistance alo… [+1697 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "WION"
+      },
+      "author": null,
+      "title": "International body names asteroid after Indian scientist Professor Jayant Murthy in 'rare honour' - WION",
+      "description": "The International Astronomical Union (IAU) has honoured an Indian scientist by naming an asteroid after his name. Professor Jayant Murthy has been awarded for his work on the interstellar medium, ultraviolet astronomy, and space missions. Asteroid (215884) Ja…",
+      "url": "https://www.wionews.com/science/international-body-names-asteroid-after-indian-scientist-professor-jayant-murthy-in-rare-honour-703414",
+      "urlToImage": "https://cdn.wionews.com/sites/default/files/2024/03/23/420386-jayantmurthy.jpg",
+      "publishedAt": "2024-03-23T07:43:56Z",
+      "content": "The International Astronomical Union (IAU) has honoured an Indian scientist by naming an asteroid after his name. Professor Jayant Murthy has been awarded for his work on the interstellar medium, ult… [+2134 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Livelaw.in"
+      },
+      "author": "Nupur Thapliyal",
+      "title": "Liquor Policy: Delhi Court Remands BRS Leader K Kavitha To Further ED Custody Till March 26 - Live Law - Indian Legal News",
+      "description": "A Delhi Court on Saturday further remanded Bharat Rashtra Samithi (BRS) leader K Kavitha to Enforcement Directorate (ED) custody till March 26 in the money laundering case connected with the...",
+      "url": "https://www.livelaw.in/news-updates/liquor-policy-delhi-court-remands-brs-leader-k-kavitha-to-further-ed-custody-till-march-26-253235",
+      "urlToImage": "https://www.livelaw.in/h-upload/2024/03/16/528552-k-kavitha-rouse-avenue-district-court.jpg",
+      "publishedAt": "2024-03-23T07:43:47Z",
+      "content": "A Delhi Court on Saturday further remanded Bharat Rashtra Samithi (BRS) leader K Kavitha to Enforcement Directorate (ED) custody till March 26 in the money laundering case connected with the alleged … [+3740 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Hindustan Times"
+      },
+      "author": "PTI",
+      "title": "Pandya begins high-profile Mumbai Indians captaincy stint against former team Gujarat Titans - Hindustan Times",
+      "description": "Pandya begins high-profile Mumbai Indians captaincy stint against former team Gujarat Titans | Cricket",
+      "url": "https://www.hindustantimes.com/cricket/pandya-begins-high-profile-mumbai-indians-captaincy-stint-against-former-team-gujarat-titans-101711178162999.html",
+      "urlToImage": "https://images.hindustantimes.com/default/1600x900.jpg",
+      "publishedAt": "2024-03-23T07:16:02Z",
+      "content": "Ahmedabad, Hardik Pandya will aim to build on the rich legacy of his predecessor Rohit Sharma when he begins his Mumbai Indians captaincy stint with a match against Gujarat Titans, a team that the st… [+3919 chars]"
+    }
+]
